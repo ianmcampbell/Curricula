@@ -1,7 +1,9 @@
-﻿curriculum_key,title,filename,default_modules
-100,Blank,NA,NA
 101,R Basics,curricula/R-Basics.Rmd,"101,102,103,104,105,106,107,108,109,110"
 102,Statistics,curricula/Statistics.Rmd,111
-103,Adventr,curricula/Adventr.Rmd,100
-104,Next Time,curricula/Next-Time.Rmd,100
-105,Join R User Group,curricula/Join-R-User-Group.Rmd,100
+"curriculum_key,title,filename,default_modules"
+"100,Blank,NA,NA"
+"101,R Basics,curricula/R-Basics.Rmd,126,121,101,102,103,104,105,106,107,108,110,111,112,113,115"
+"102,Statistics,curricula/Statistics.Rmd,111"
+"103,Adventr,curricula/Adventr.Rmd,100"
+"104,Next Time,curricula/Next-Time.Rmd,100"
+"105,Join R User Group,curricula/Join-R-User-Group.Rmd,100"
