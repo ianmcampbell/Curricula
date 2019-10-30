@@ -1,6 +1,6 @@
 # Curricula
 Curricula for Arcus ModularEducation Support System
-See "braunsb/Lessons" for more information about the project.
+See [the a-MESS Lesson repo] (https://github.com/braunsb/Lessons) for more information about the project.
 
 ## To Add a Curriculum/Exploder
 
