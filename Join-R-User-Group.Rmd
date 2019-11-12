@@ -1,0 +1,23 @@
+---
+title: "Next Time"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Join the R User Group
+
+If you haven’t already, consider joining the CHOP R User Group, where you will find cookies (the edible ones), coffee, conversations, presentations, and help with your code. We have a newsletter to announce upcoming gatherings (usually held semimonthly) and an active slack user group.
+
+If you have already joined, please share this bar code and link with a friend or colleague!
+
+<center>
+```{r, out.width = "200px", echo = FALSE}
+knitr::include_graphics("chop-r.gif")
+```
+</center>
+```{r,echo = FALSE, out.width = "100%"}
+knitr::include_graphics("footer.png")
+```
